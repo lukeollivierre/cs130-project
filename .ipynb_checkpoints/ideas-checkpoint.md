@@ -6,7 +6,7 @@ Lab 8
 
 [Tennis Professionals](https://www.kaggle.com/datasets/gmadevs/atp-matches-dataset)
 
-[European Soccer DataBase](https://www.kaggle.com/datasets/hugomathien/soccer)
+[European Soccer DataBase](https://www.kaggle.com/code/abdelrhmanragab/european-soccer)
 
 *Tennis Professionals: Does having a fast serve cause you to win more?*
 
