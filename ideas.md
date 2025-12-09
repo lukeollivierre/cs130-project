@@ -8,12 +8,8 @@ Lab 8
 
 [European Soccer DataBase](https://www.kaggle.com/code/abdelrhmanragab/european-soccer)
 
-*Tennis Professionals: Does having a fast serve cause you to win more?*
 
-To answer this question, I would look at the ATP Matches dataset and count the number of players whose average serve speed is above a certain value (for example: 120 mph average speed). Then I would compare how many matches those players win compared to players with slower serves.
+*Tennis Professionals: Was Nadal's undefeated clay season (2008) better than his 50-2 clay court record in 2005?*
 
-
-*Soccer DataBase: Does France produce the best soccer players?*
-
-To answer this question, I would use the European Soccer Database and count how many players from each country have an overall rating above a certain value (for example: 85). Then I would compare France’s average rating to other countries to see if they have the highest overall skill.
+To answer this question, I would use the Tennis Professionals data and analyse: the quality of the wins bases off of the ranking of opponents beat, tournaments wins and win streaks on the clay surface. Then I would compare these statistics of each year to determine if the which was more impressive.
 
