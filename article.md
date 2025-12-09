@@ -16,7 +16,7 @@ As seen in the chart above, Nadal played **52 matches** on clay in 2005, more th
 
 If 2005 was about *how much* he won, 2008 was about *who* he beat. When we strip away the volume and look at the caliber of opposition, the 2008 season emerges as perhaps the more impressive athletic feat.
 
-![Opponent Rank Trajectory](images/ranks_line_plot.png)
+![Opponent Rank Trajectory](images/ranks_line_plot.jpg)
 
 The line plot above visualizes the ranking of every opponent Nadal faced in chronological order. The **blue line (2005)** is volatile, with frequent spikes reaching up to rank 100 or higher, indicating he was beating many lower-tier journeymen. In stark contrast, the **red line (2008)** stays consistently low to the x-axis. In 2008, Nadal wasn't playing the early rounds of small events; he was deep in Masters 1000s and Grand Slams, consistently facing top-tier talent. In 2005, the average rank of a player Nadal beat was **53.5**, but in 2008, that number dropped to **29.9**, meaning he was effectively playing a Top 30 player every time he stepped on the court.
 
