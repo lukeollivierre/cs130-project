@@ -1,4 +1,4 @@
-# The King of Clay: Was Nadal's 2005 Breakout Better Than His 2008 Perfection?
+# Prime Nadal: Was Nadal's 2005 Breakout Better Than His 2008 Perfection?
 
 When tennis fans think of Rafael Nadal, they think of clay. The red dirt is his kingdom, and for nearly two decades, he has ruled it with an iron fist. But among his many dominant seasons, two stand out as distinct archetypes of his greatness: **2005**, his breakout year as a teenager, and **2008**, widely considered his physical prime.
 
