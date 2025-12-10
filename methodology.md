@@ -4,13 +4,13 @@
 * **Tennis Database:** The primary data for this analysis was sourced from [Tennis Professionals](https://www.kaggle.com/datasets/gmadevs/atp-matches-dataset) where the two CSV files: `atp_matches_2005.csv` and `atp_matches_2008.csv`were downloaded. These files contain match-level statistics for the ATP tour, including player IDs, rankings, scores, match duration, and tournament dates.
 
 ### Data Preparation/Cleaning
-* **File Loading:** Data was loaded by reading the CSV files line-by-line using Python's built-in file handling. Rows were split by commas to extract individual fields.
+* **File Loading:** Data was loaded by reading the CSV files line by line using Python's  file handling. Rows were split by commas to extract individual fields.
 * **Filtering:** The dataset was filtered to include only matches where:
     * The `surface` column was equal to "Clay".
     * Rafael Nadal was either the `winner_id` or the `loser_id` and his specific player id was used.
 * **Sorting:** The raw data in the CSV files was not chronological. A new list was used to sort the matches in the correct order based off of date.
 * **Data Type Conversion:** Numeric fields such as `minutes`, `winner_rank`, and `loser_rank` were converted from strings to integers or floats. Empty strings in these fields were handled by skipping the conversion to avoid errors.
-* **Score:** The `score` string was parsed to count specific metrics like "Sets Lost." Tie-break representations (e.g., "7-6(4)") were cleaned to standard game scores ("7-6") for calculation.
+* **Score:** The `score` string was parsed to count specific metrics like "Sets Lost." Tie-break representations (e.g 7-6(4)) were cleaned to standard game scores (7-6) for calculation.
 
 ### Assumptions
 * **Chronological Order:** It was assumed that the `tourney_date` was sufficient to use for ordering matches to calculate win streaks. It was also assumed that since matches within a tournament occur on different days, sorting by tournament date, groups them effectively enough for to calculate the win streaks.
